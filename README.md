@@ -68,7 +68,7 @@ x=1
 x=10;
 ```
 
-- A basic example to find the maximum number from an array is [eg. max.js](https://github.com/himanshu-chaddha/JavaScript-ES6-ES2015/blob/master/max.js)
+- A basic example to find the maximum number from an array is [eg. max.js](https://github.com/chaddha1/ES6_or_ES2015/blob/master/max.js)
 
 ### 2. Block Scope
 
